@@ -44,8 +44,8 @@ Happy development.
 
 ### Links
 
-- Solution URL: [Solution URL ](https://your-solution-url.com)
-- Live Site URL: [Order Summary Component](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://harsha094.github.io/Order-Summary-Component/)
+- Live Site URL: [Order Summary Component](https://harsha094.github.io/Order-Summary-Component/)
 
 ### Built with
 
